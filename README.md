@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=150&section=header&text=M2JD&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Arduino%20%26%20IoT%20Expert&descAlignY=60&descAlign=50&stroke=FF4444&strokeWidth=1" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,6,6,6,6&height=180&section=header&text=M2JD&fontSize=72&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Arduino%20Expert%20%7C%20IoT%20Specialist&descAlignY=58&descAlign=50&stroke=FF4444&strokeWidth=1" alt="Header" />
 
 </div>
 
