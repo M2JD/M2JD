@@ -183,8 +183,6 @@ const majd = {
 ## GitHub Analytics
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=M2JD&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF4444&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2JD&theme=dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=FF4444&fire=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e" alt="Contribution Streak" />
 
 </div>
