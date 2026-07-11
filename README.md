@@ -223,13 +223,6 @@ const majd = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=M2JD&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=M2JD%27s%20GitHub%20Stats&bg_color=0d1117&title_color=FF4444&text_color=FFFFFF&icon_color=00D4FF&border_color=21262d" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M2JD&layout=compact&theme=dark&hide_border=true&count_private=true&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=00D4FF&text_color=FFFFFF&border_color=21262d" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2JD&theme=dark&hide_border=true&custom_title=Contribution%20Streak&background=0d1117&stroke=00D4FF&ring=FF4444&fire=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8b949e" alt="Contribution Streak" />
 
 </div>
@@ -242,24 +235,6 @@ const majd = {
 
 <br>
 
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Alpha Collection** | Curated suite of full stack tools and utilities | React · Node.js · MongoDB |
-| **4Bandit** | Modern web platform with scalable backend architecture | Next.js · Express · MySQL |
-| **AI Agent** | Intelligent automation agent powered by modern AI APIs | Python · LangChain · OpenAI |
-| **Business SaaS** | End-to-end SaaS platform for business workflow management | TypeScript · NestJS · PostgreSQL |
-| **Discord Security Platform** | Security-focused Discord bot and monitoring system | Node.js · Socket.IO · Redis |
-| **Modern Mobile Apps** | Cross-platform mobile applications with native performance | React Native · TypeScript · Firebase |
-
-</div>
-
-<br>
 
 ---
 
@@ -300,11 +275,6 @@ const majd = {
 
 ## GitHub Achievements
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=M2JD&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
-
-</div>
 
 <br>
 
@@ -316,13 +286,6 @@ const majd = {
 
 <br>
 
-<div align="center">
-
-  ![Contribution Snake](https://raw.githubusercontent.com/M2JD/M2JD/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br>
 
 ---
 
